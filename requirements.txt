@@ -1,3 +1,9 @@
 Django==2.2.20
 pytz==2021.1
 sqlparse==0.4.1
+
+flake8
+pep8-naming
+flake8-broken-line
+flake8-return
+flake8-isort
